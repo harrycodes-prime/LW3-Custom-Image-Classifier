@@ -1,7 +1,9 @@
 # LW3-Custom-Image-Classifier
 
 
-https://drive.google.com/drive/folders/1X7r9qPx0bbonH6GolK5jxFyPpASlzI9l?usp=drive_link
+Google Drive: https://drive.google.com/drive/folders/1X7r9qPx0bbonH6GolK5jxFyPpASlzI9l?usp=drive_link
+Google Colab: https://colab.research.google.com/drive/1Ya-i1GzI-enbnAohdvfl187jPMy_P5mC?usp=sharing
+
 
 
 
